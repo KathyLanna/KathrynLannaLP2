@@ -1,0 +1,6 @@
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\bin\Debug\Potencia.exe.config
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\bin\Debug\Potencia.exe
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\bin\Debug\Potencia.pdb
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\obj\Debug\Potencia.csprojResolveAssemblyReference.cache
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\obj\Debug\Potencia.exe
+c:\users\kathy lanna\documents\visual studio 2013\Projects\Potencia\Potencia\obj\Debug\Potencia.pdb
