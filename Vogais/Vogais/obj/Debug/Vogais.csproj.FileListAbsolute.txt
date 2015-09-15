@@ -1,6 +1,0 @@
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\bin\Debug\Vogais.exe.config
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\bin\Debug\Vogais.exe
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\bin\Debug\Vogais.pdb
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\obj\Debug\Vogais.csprojResolveAssemblyReference.cache
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\obj\Debug\Vogais.exe
-c:\users\kathy lanna\documents\visual studio 2013\Projects\Vogais\Vogais\obj\Debug\Vogais.pdb
